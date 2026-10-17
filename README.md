@@ -1,16 +1,12 @@
 ### Hi there, I'm Saulo 👋
 
-This readme is currently under construction
+Source for my personal website, [scbarreto.github.io](https://scbarreto.github.io), served by GitHub Pages.
 
-Credits for the website template:
+Plain HTML, CSS, and a little JavaScript, with no build step:
 
-	Website Design:	
-		Dimension by HTML5 UP
-		html5up.net | @ajlkn
+- `index.html`: all page content
+- `assets/style.css`: styles
+- `assets/main.js`: mobile menu and active-section highlighting
+- `Saulo_Barreto_CV.pdf`: the CV linked from the site
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Fonts: [Inter](https://rsms.me/inter/) and [JetBrains Mono](https://www.jetbrains.com/lp/mono/), via Google Fonts.
