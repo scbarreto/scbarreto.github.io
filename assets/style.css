@@ -310,11 +310,6 @@ a:hover {
   font-size: 1.05rem;
 }
 
-.highlight {
-  color: var(--accent);
-  font-weight: 500;
-}
-
 /* About facts */
 
 .facts {
